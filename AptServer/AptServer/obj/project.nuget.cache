@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b4YqCjV+ICEdN9ml5HgUvHlpzDaurSU8vXHAylH3g6lOLskfcvjrwdirgcz6SyoIfcqfffA/JQFAW0b4+qiTNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\CompNetw\\Final HW\\AptServer\\AptServer\\AptServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

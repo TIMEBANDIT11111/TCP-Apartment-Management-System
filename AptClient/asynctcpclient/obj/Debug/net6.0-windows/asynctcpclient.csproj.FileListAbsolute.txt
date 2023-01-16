@@ -1,0 +1,34 @@
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\bin\Debug\net6.0-windows\asynctcpclient.exe
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\bin\Debug\net6.0-windows\asynctcpclient.deps.json
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\bin\Debug\net6.0-windows\asynctcpclient.runtimeconfig.json
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\bin\Debug\net6.0-windows\asynctcpclient.dll
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\bin\Debug\net6.0-windows\asynctcpclient.pdb
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.Form1.resources
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.AssemblyInfo.cs
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.dll
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\obj\Debug\net6.0-windows\refint\asynctcpclient.dll
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.pdb
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.genruntimeconfig.cache
+C:\Users\furka\source\repos\asynctcpclient\asynctcpclient\obj\Debug\net6.0-windows\ref\asynctcpclient.dll
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\bin\Debug\net6.0-windows\asynctcpclient.exe
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\bin\Debug\net6.0-windows\asynctcpclient.deps.json
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\bin\Debug\net6.0-windows\asynctcpclient.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\bin\Debug\net6.0-windows\asynctcpclient.dll
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\bin\Debug\net6.0-windows\asynctcpclient.pdb
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.dll
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\obj\Debug\net6.0-windows\refint\asynctcpclient.dll
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.pdb
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\obj\Debug\net6.0-windows\asynctcpclient.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\CompNetw\Final HW\AptClient\asynctcpclient\obj\Debug\net6.0-windows\ref\asynctcpclient.dll
